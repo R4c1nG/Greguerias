@@ -1,0 +1,66 @@
+/*  Autor: Jorge Tarascó
+    Fecha 11 / 12 / 18
+*/
+
+@charset "UTF-8";
+
+body {
+    background-color: #2D8652;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1.kapp {
+    text-transform: capitalize;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+p.wht {
+    color: white;
+    font-size: 24px;
+    font-family: serif;
+    font-style: oblique
+}
+
+p.ora {
+    color: #FFDFB3;
+    font-family: sans-serif;
+    font-size: 24px;
+}
+
+p.esc {
+    font-family: monospace;
+    font-size: 200%;
+    color: #FF9F1A;
+}
+
+p.esc2 {
+    font-family: monospace;
+    font-size: 200%;
+    color: #FF9F1A;
+}
+
+p.gri {
+    font-size: 24px;
+    color: white;
+    font-family: serif;
+    font-style: oblique;
+}
+
+p.red {
+    font-size: 24px;
+    color: hsl(345, 80%, 50%);
+    font-family: cursive;
+}
+
+p.chi {
+    font-size: 24px;
+    color: hsl(35, 100%, 85%);
+    font-family: sans-serif;
+}
+
+p.six {
+    font-size: 24px;
+    color: hsl(345, 80%, 50%);
+    font-family: cursive;
+}
